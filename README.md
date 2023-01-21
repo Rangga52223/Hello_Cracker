@@ -24,4 +24,7 @@ This is an application tool that is used to crack passwords for rar with the met
 list bruteforce and also this tool can provide md5 and sha-256 hashes for the rar, remember
 This tool is for education, I made this tool to make assignments.
 
+
+NOte: Install rarfile and hashlib to activate this tool
+
 Thx Guys :D
